@@ -1,2 +1,2 @@
 # Titanic
-Exploring for Titanic Kaggle Problem
+Exploring for Titanic Kaggle Problem to get 90% accuracy
